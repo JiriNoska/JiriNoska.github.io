@@ -1,8 +1,29 @@
 ## Využití výukového kitu TinyLab v přípravě budoucích učitelů
 
-Materiály vznikly v rámci diplomové práce a jsou volně dostupné na [JiriNoska/Tinylab](https://github.com/JiriNoska/TinyLab/)
+Materiály vznikly v rámci diplomové práce a jsou volně dostupné na [JiriNoska/Tinylab](https://github.com/JiriNoska/TinyLab/). 
 
-### Markdown
+Podklady pro výuku se dělí na 13 aktivit, kdy každá z těchto aktivit je koncipována na jednu vyučovací hodinu. V rámci každé aktivity je několik úloh, kdy se žáci budou učit vytvářet programy ve výukovém kitu TinyLab. 
+
+
+
+### Struktura aktivit
+
+1. Seznámení se s výukovám kitem TinyLab
+2. LED diody
+3. Poternciometr
+4. Tlačítka
+5. Relé
+6. Piezoelektrický měnič
+7. Fotorezistor
+8. Teplotní čidlo
+9. Rotační enkodér
+10. 7segmentový displej
+11. LCD displej
+12. Funkce, cykly
+13. Multitasking
+
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
