@@ -1,6 +1,6 @@
 ## Využití výukového kitu TinyLab v přípravě budoucích učitelů
 
-Materiály vznikly v rámci diplomové práce a jsou volně dostupné na https://github.com/JiriNoska/TinyLab/
+Materiály vznikly v rámci diplomové práce a jsou volně dostupné na [JiriNoska/Tinylab](https://github.com/JiriNoska/TinyLab/)
 
 ### Markdown
 
