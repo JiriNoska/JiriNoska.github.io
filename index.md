@@ -1,5 +1,5 @@
 
 # Jiří Noska
 
-[využití výukového kitu TinyLab v přípravě budoucích učitelů](https://jiri.noska.github.io/tinylab/)
+[využití výukového kitu TinyLab v přípravě budoucích učitelů](https://jirinoska.github.io/tinylab/)
 
